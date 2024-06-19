@@ -1,0 +1,1 @@
+This project aims to help retail businesses manage their inventory more effectively. By using k-means clustering, we categorize items into 'fast moving' and 'slow moving' groups based on sales data. This helps determine the optimal amount of stock to maintain and set appropriate profit margins.
